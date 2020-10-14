@@ -1,19 +1,24 @@
 import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
-import Team from "./Components/Team/Team";
+import Home from "./Components/Home/Home";
+import Projects from "./Components/Projects/Projects";
+import Blogs from "./Components/Blogs/Blogs";
+import Videos from "./Components/Videos/Videos";
 import Navbar from "./Components/Navbar/Navbar";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <img
-        className="logo"
-        src="https://user-images.githubusercontent.com/42115530/95915203-71448880-0dc4-11eb-875d-f47ea72f886a.png"
-        alt="logo"
-      />
-      {/* https://user-images.githubusercontent.com/42115530/95913615-2295ef00-0dc2-11eb-8176-8d9783cf8b65.png */}
-      <Team />
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/projects" component={Projects} />
+          <Route exact path="/blogs" component={Blogs} />
+          <Route exact path="/videos" component={Videos} />
+        </Switch>
+      </Router>
     </div>
   );
 }
