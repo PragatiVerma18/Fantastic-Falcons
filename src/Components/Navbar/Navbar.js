@@ -4,7 +4,9 @@ function Navbar() {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <p class="navbar-brand">Fantastic Falcons</p>
+        <p class="navbar-brand">
+          <strong>Fantastic Falcons</strong>
+        </p>
         <button
           class="navbar-toggler"
           type="button"
