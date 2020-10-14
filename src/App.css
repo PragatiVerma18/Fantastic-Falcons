@@ -8,6 +8,10 @@ h4 {
   padding: 0;
 }
 
+body {
+  overflow-x: hidden !important;
+}
+
 .logo {
   height: 250px;
   margin: auto !important;
@@ -142,4 +146,11 @@ a:hover {
   display: flex;
   justify-items: center;
   align-content: center;
+}
+
+.themebox {
+  display: flex;
+  margin: auto !important;
+  justify-content: center;
+  margin-top: 20px !important;
 }
