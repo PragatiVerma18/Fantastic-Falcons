@@ -137,3 +137,9 @@ a:hover {
 .navbar {
   font-family: "Poppins", sans-serif;
 }
+
+.mentor {
+  display: flex;
+  justify-items: center;
+  align-content: center;
+}
