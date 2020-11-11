@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "EmoFace",
+    "tagline": "A developer friendly emotion recognition pipeline",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/248/365/datas/gallery.jpg",
+    "website": "https://github.com/VikVelev/EmotionTracker",
+    "devpost": "https://devpost.com/software/emotiontracker",
+    "youtube": "https://youtu.be/BKJaSwNzXnc"
+  },
+  {
+    "id": "2",
+    "name": "MLH Quizzet",
+    "tagline": "A smart Quiz Generator that generates a quiz from any document",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/248/179/datas/medium.png",
+    "website": "https://github.com/PragatiVerma18/MLH-Quizzet",
+    "devpost": "https://devpost.com/software/fantastic-falcons-1-0",
+    "youtube": "https://youtu.be/74RrpcO89E0"
+  },
+  {
+    "id": "3",
+    "name": "IssueOverflow",
+    "tagline": "Where software engineers find new exciting issues to contribute to",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/248/298/datas/medium.png",
+    "website": "http://issuesoverflow.s3-website.us-east-2.amazonaws.com/",
+    "devpost": "https://devpost.com/software/issueoverflow",
+    "youtube": "https://youtu.be/_Rstdi2QKQc"
+  },
+  {
+    "id": "4",
+    "name": "mlhteam3",
+    "tagline": "The GitHub Markdown project is a code editor built using React, Slate Js and eslint.",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/248/292/datas/medium.png",
+    "website": "https://mlhteam3.netlify.app/",
+    "devpost": "https://devpost.com/software/mlhteam3",
+    "youtube": "https://youtu.be/rwH9FFYQ-GI"
+  }
+]
