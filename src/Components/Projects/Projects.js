@@ -7,8 +7,8 @@ function Projects() {
       <h1 className="text-center">
         <strong>Projects</strong>
       </h1>
-      <div class="container">
-        <div class="row">
+      <div className="container">
+        <div className="row">
           <ProjectCard />
         </div>
       </div>

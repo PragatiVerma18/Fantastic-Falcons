@@ -6,12 +6,12 @@ function ProjectCard() {
     <>
       {Projects.map((el) => {
         return (
-          <div class="col-sm-6 col-lg-6 col-xl-4 d-flex">
-            <div class="card flex-fill" key={el.id}>
-              <img class="card-img-top" src={el.image} alt={el.title} />
-              <div class="card-body">
-                <h4 class="card-title">{el.title}</h4>
-                <p class="card-text">{el.tagline}</p>
+          <div className="col-sm-6 col-lg-6 col-xl-4 d-flex">
+            <div className="card flex-fill" key={el.id}>
+              <img className="card-img-top" src={el.image} alt={el.title} />
+              <div className="card-body">
+                <h4 className="card-title">{el.title}</h4>
+                <p className="card-text">{el.tagline}</p>
                 <div className="icon-tray">
                   <span className="icon">
                     <a href={el.devpost}>
@@ -26,7 +26,7 @@ function ProjectCard() {
                 </div>
                 <a
                   href={el.devpost}
-                  class="btn btn-block btn-lg btn-primary mt-4"
+                  className="btn btn-block btn-lg btn-primary mt-4"
                 >
                   View More
                 </a>

@@ -31,7 +31,7 @@ function Navbar() {
                 Projects
               </Link>
             </li>
-            <li class="nav-item">
+            <li className="nav-item">
               <Link className="nav-link" to="/blogs">
                 Blogs
               </Link>

@@ -1,4 +1,5 @@
 import React from "react";
+import VideoCard from "./VideoCard";
 
 function Videos() {
   return (
@@ -6,6 +7,11 @@ function Videos() {
       <h1 className="text-center">
         <strong>Videos</strong>
       </h1>
+      <div className="container">
+        <div className="row">
+          <VideoCard />
+        </div>
+      </div>
     </div>
   );
 }
