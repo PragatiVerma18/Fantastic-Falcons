@@ -6,8 +6,8 @@ function ProjectCard() {
     <>
       {Projects.map((el) => {
         return (
-          <div class="col-sm-6 col-lg-6 col-xl-4">
-            <div class="card" key={el.id}>
+          <div class="col-sm-6 col-lg-6 col-xl-4 d-flex">
+            <div class="card flex-fill" key={el.id}>
               <img class="card-img-top" src={el.image} alt={el.title} />
               <div class="card-body">
                 <h4 class="card-title">{el.title}</h4>

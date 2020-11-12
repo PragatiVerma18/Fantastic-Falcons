@@ -19,10 +19,10 @@ function Team() {
         </div>
         <div className="row">
           <div
-            className="col-sm-6 col-lg-6 col-xl-4"
+            className="col-sm-6 col-lg-6 col-xl-4 d-flex"
             style={{ margin: "auto" }}
           >
-            <div className="single-person">
+            <div className="single-person flex-fill">
               <div className="person-image">
                 <img
                   src="https://avatars0.githubusercontent.com/u/434373?s=460&v=4"
@@ -54,10 +54,10 @@ function Team() {
             </div>
           </div>
           <div
-            className="col-sm-6 col-lg-6 col-xl-4"
+            className="col-sm-6 col-lg-6 col-xl-4 d-flex"
             style={{ margin: "auto" }}
           >
-            <div className="single-person">
+            <div className="single-person flex-fill">
               <div className="person-image">
                 <img
                   src="https://avatars0.githubusercontent.com/u/283496?s=460&u=cbf932d9fbc3886202d34ecd232afe6cdca2bacf&v=4"
@@ -89,10 +89,10 @@ function Team() {
             </div>
           </div>
           <div
-            className="col-sm-6 col-lg-6 col-xl-4"
+            className="col-sm-6 col-lg-6 col-xl-4 d-flex"
             style={{ margin: "auto" }}
           >
-            <div className="single-person">
+            <div className="single-person flex-fill">
               <div className="person-image">
                 <img
                   src="https://avatars3.githubusercontent.com/u/37709578?s=460&u=074aa045c86912efe8fcad760a163f450d4881cd&v=4"
