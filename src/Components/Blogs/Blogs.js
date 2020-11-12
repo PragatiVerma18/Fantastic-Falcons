@@ -1,4 +1,5 @@
 import React from "react";
+import BlogCard from "./BlogCard";
 
 function Blogs() {
   return (
@@ -6,6 +7,11 @@ function Blogs() {
       <h1 className="text-center">
         <strong>Blogs</strong>
       </h1>
+      <div className="container">
+        <div className="row">
+          <BlogCard />
+        </div>
+      </div>
     </div>
   );
 }
