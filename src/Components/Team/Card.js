@@ -6,8 +6,8 @@ function Card() {
     <>
       {Persons.map((el) => {
         return (
-          <div className="col-sm-6 col-lg-4 col-xl-3 d-flex">
-            <div className="single-person flex-fill" key={el.id}>
+          <div className="col-sm-6 col-lg-4 col-xl-3 d-flex" key={el.id}>
+            <div className="single-person flex-fill">
               <div className="person-image">
                 <img src={el.img} alt="" />
                 <span className="icon">
