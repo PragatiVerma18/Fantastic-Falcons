@@ -34,5 +34,59 @@
     "website": "https://mlhteam3.netlify.app/",
     "devpost": "https://devpost.com/software/mlhteam3",
     "youtube": "https://youtu.be/rwH9FFYQ-GI"
+  },
+  {
+    "id": "5",
+    "name": "FellowKoins",
+    "tagline": "Celebrate the triumph of being an open-source contributor at MLH Fellowship with FellowKoins!",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/290/805/datas/medium.gif",
+    "website": "https://fellowkoins.netlify.app/",
+    "devpost": "https://devpost.com/software/fellowkoins",
+    "youtube": "https://www.youtube.com/watch?v=RB1egno9fXY&feature=youtu.be"
+  },
+  {
+    "id": "6",
+    "name": "Fship",
+    "tagline": "(Friend|Fellow)ship - Expand your reach and make new like-minded Friends outside of your Pod!",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/292/499/datas/medium.png",
+    "website": "https://github.com/akshgpt7/Fship",
+    "devpost": "https://devpost.com/software/fship",
+    "youtube": "https://vimeo.com/482259724"
+  },
+  {
+    "id": "7",
+    "name": "MLHSessions",
+    "tagline": "View MLH Fellowship Sessions Online. It's a web app that offers follows the possibility to get information about each day session and rewatch the previous ones.",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/291/176/datas/medium.png",
+    "website": "https://devpost.com/software/mlhsessions",
+    "devpost": "https://devpost.com/software/mlhsessions",
+    "youtube": "https://youtu.be/dvgyp_JNfGA"
+  },
+  {
+    "id": "8",
+    "name": "Intern Xplorer",
+    "tagline": "This is a web app that allows users (students mostly) to find their internship or a useful resource for interview preparation.",
+    "image": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+    "website": "https://github.com/NenadPantelic/Intern-xplorer",
+    "devpost": "https://devpost.com/software/intern-xplorer",
+    "youtube": "https://youtu.be/9F2XsBrzDd4"
+  },
+  {
+    "id": "9",
+    "name": "Gitner",
+    "tagline": "Tinder but for GitHub Issues and Projects, and it's a Discord bot!",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/291/187/datas/medium.png",
+    "website": "https://github.com/VikVelev/Gitner",
+    "devpost": "https://devpost.com/software/gitner",
+    "youtube": "https://youtu.be/XZZQKl-XoYM"
+  },
+  {
+    "id": "10",
+    "name": "GitHub Project Notifier",
+    "tagline": "Never miss updates on your GitHub Projects again~",
+    "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/290/411/datas/medium.png",
+    "website": "https://github.com/wei/github-project-notifier",
+    "devpost": "https://devpost.com/software/github-project-notifier",
+    "youtube": "https://youtu.be/1UcU2Ws8cSU"
   }
 ]
